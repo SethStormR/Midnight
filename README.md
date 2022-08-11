@@ -1,7 +1,8 @@
 
 ![Midnight-Logo](https://user-images.githubusercontent.com/60283532/183975601-be9f482b-bf23-4c9b-8b6e-a38b470f8125.png)
 
-Midnight icon theme for Gnome, XFCE and Budgie DE
+Midnight icon theme for Gnome, XFCE and Budgie DE.
+
 5 different colors!!!
 
 Screenshots
