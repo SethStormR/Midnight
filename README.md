@@ -3,7 +3,7 @@
 
 Midnight icon theme for Gnome, XFCE and Budgie DE.
 
-5 different colors!!!
+8 different colors!!!
 
 Screenshots
 --
